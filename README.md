@@ -1,0 +1,2 @@
+# forbs
+Ghanaian billionaires list 
